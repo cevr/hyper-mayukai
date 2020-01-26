@@ -1,4 +1,4 @@
-# hyper-snazzy
+# hyper-mayukai
 
 > Dark [Hyper](https://hyper.is) theme with bright colors
 
