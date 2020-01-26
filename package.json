@@ -1,0 +1,21 @@
+{
+  "name": "hyper-mayukai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Dark Hyper theme with bright colors - inspired by the VSCode theme Mayukai",
+  "license": "MIT",
+  "repository": "cevr/hyper-mayukai",
+  "author": {
+    "name": "Cristian Velasquez Ramos",
+    "email": "seeve.c@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "elegant",
+    "dark"
+  ]
+}
