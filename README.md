@@ -1,6 +1,6 @@
 # hyper-mayukai
 
-> Dark [Hyper](https://hyper.is) theme with bright colors
+> Dark [Hyper](https://hyper.is) theme with bright colors - based off the [VSCode Theme Mayukai](https://github.com/GulajavaMinistudio/Mayukai-Theme)
 
 ![](screenshot.png)
 
